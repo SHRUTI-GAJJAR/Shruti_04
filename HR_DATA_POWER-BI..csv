@@ -1,0 +1,120 @@
+Attrition,Business Travel,CF_age band,CF_attrition label,Department,Education Field,emp no,Employee Number,Gender,Job Role,Marital Status,Over Time,Over18,Training Times Last Year,Age,CF_current Employee,Daily Rate,Distance From Home,Education,Employee Count,Environment Satisfaction,Hourly Rate,Job Involvement,Job Level,Job Satisfaction,Monthly Income,Monthly Rate,Num Companies Worked,Percent Salary Hike,Performance Rating,Relationship Satisfaction,Standard Hours,Stock Option Level,Total Working Years,Work Life Balance,Years At Company,Years In Current Role,Years Since Last Promotion,Years With Curr Manager
+Yes,Travel_Rarely,35 - 44,Ex-Employees,Sales,Life Sciences,STAFF-1,1,Female,Sales Executive,Single,Yes,Y,0,41,0,1102,1,Associates Degree,1,2,94,3,2,4,5993,19479,8,11,3,1,80,0,8,1,6,4,0,5
+No,Travel_Frequently,45 - 54,Current Employees,R&D,Life Sciences,STAFF-2,2,Male,Research Scientist,Married,No,Y,3,49,1,279,8,High School,1,3,61,2,2,2,5130,24907,1,23,4,4,80,1,10,3,10,7,1,7
+Yes,Travel_Rarely,35 - 44,Ex-Employees,R&D,Other,STAFF-4,4,Male,Laboratory Technician,Single,Yes,Y,3,37,0,1373,2,Associates Degree,1,4,92,2,1,3,2090,2396,6,15,3,2,80,0,7,3,0,0,0,0
+No,Travel_Frequently,25 - 34,Current Employees,R&D,Life Sciences,STAFF-5,5,Female,Research Scientist,Married,Yes,Y,3,33,1,1392,3,Master's Degree,1,4,56,3,1,3,2909,23159,1,11,3,3,80,0,8,3,8,7,3,0
+No,Travel_Rarely,25 - 34,Current Employees,R&D,Medical,STAFF-7,7,Male,Laboratory Technician,Married,No,Y,3,27,1,591,2,High School,1,1,40,3,1,2,3468,16632,9,12,3,4,80,1,6,3,2,2,2,2
+No,Travel_Frequently,25 - 34,Current Employees,R&D,Life Sciences,STAFF-8,8,Male,Laboratory Technician,Single,No,Y,2,32,1,1005,2,Associates Degree,1,4,79,3,1,4,3068,11864,0,13,3,3,80,0,8,2,7,7,3,6
+No,Travel_Rarely,Over 55,Current Employees,R&D,Medical,STAFF-10,10,Female,Laboratory Technician,Married,Yes,Y,3,59,1,1324,3,Bachelor's Degree,1,3,81,4,1,1,2670,9964,4,20,4,1,80,3,12,2,1,0,0,0
+No,Travel_Rarely,25 - 34,Current Employees,R&D,Life Sciences,STAFF-11,11,Male,Laboratory Technician,Divorced,No,Y,2,30,1,1358,24,High School,1,4,67,3,1,3,2693,13335,1,22,4,2,80,1,1,3,1,0,0,0
+No,Travel_Frequently,35 - 44,Current Employees,R&D,Life Sciences,STAFF-12,12,Male,Manufacturing Director,Single,No,Y,2,38,1,216,23,Bachelor's Degree,1,4,44,2,3,3,9526,8787,0,21,4,2,80,0,10,3,9,7,1,8
+No,Travel_Rarely,35 - 44,Current Employees,R&D,Medical,STAFF-13,13,Male,Healthcare Representative,Married,No,Y,3,36,1,1299,27,Bachelor's Degree,1,3,94,3,2,3,5237,16577,6,13,3,2,80,2,17,2,7,7,7,7
+No,Travel_Rarely,35 - 44,Current Employees,R&D,Medical,STAFF-14,14,Male,Laboratory Technician,Married,No,Y,5,35,1,809,16,Bachelor's Degree,1,1,84,4,1,2,2426,16479,0,13,3,3,80,1,6,3,5,4,0,3
+No,Travel_Rarely,25 - 34,Current Employees,R&D,Life Sciences,STAFF-15,15,Female,Laboratory Technician,Single,Yes,Y,3,29,1,153,15,Associates Degree,1,4,49,2,2,3,4193,12682,0,12,3,4,80,0,10,3,9,5,0,8
+No,Travel_Rarely,25 - 34,Current Employees,R&D,Life Sciences,STAFF-16,16,Male,Research Scientist,Divorced,No,Y,1,31,1,670,26,High School,1,1,31,3,1,3,2911,15170,1,17,3,4,80,1,5,2,5,2,4,3
+No,Travel_Rarely,25 - 34,Current Employees,R&D,Medical,STAFF-18,18,Male,Laboratory Technician,Divorced,No,Y,2,34,1,1346,19,Associates Degree,1,2,93,3,1,4,2661,8758,0,11,3,3,80,1,3,3,2,2,1,2
+Yes,Travel_Rarely,25 - 34,Ex-Employees,R&D,Life Sciences,STAFF-19,19,Male,Laboratory Technician,Single,Yes,Y,4,28,0,103,24,Bachelor's Degree,1,3,50,2,1,3,2028,12947,5,14,3,2,80,0,6,3,4,2,0,3
+No,Travel_Rarely,25 - 34,Current Employees,R&D,Life Sciences,STAFF-20,20,Female,Manufacturing Director,Divorced,No,Y,1,29,1,1389,21,Master's Degree,1,2,51,4,3,1,9980,10195,1,11,3,3,80,1,10,3,10,9,8,8
+No,Travel_Rarely,25 - 34,Current Employees,R&D,Life Sciences,STAFF-21,21,Male,Research Scientist,Divorced,Yes,Y,5,32,1,334,5,Associates Degree,1,1,80,4,1,2,3298,15053,0,12,3,4,80,2,7,2,6,2,0,5
+No,Non-Travel,Under 25,Current Employees,R&D,Medical,STAFF-22,22,Male,Laboratory Technician,Divorced,Yes,Y,2,22,1,1123,16,Associates Degree,1,4,96,4,1,4,2935,7324,1,13,3,2,80,2,1,2,1,0,0,0
+No,Travel_Rarely,45 - 54,Current Employees,Sales,Life Sciences,STAFF-23,23,Female,Manager,Married,No,Y,3,53,1,1219,2,Master's Degree,1,1,78,2,4,4,15427,22021,2,16,3,3,80,0,31,3,25,8,3,7
+No,Travel_Rarely,35 - 44,Current Employees,R&D,Life Sciences,STAFF-24,24,Male,Research Scientist,Single,Yes,Y,3,38,1,371,2,Bachelor's Degree,1,4,45,3,1,4,3944,4306,5,11,3,3,80,0,6,3,3,2,1,2
+No,Non-Travel,Under 25,Current Employees,R&D,Other,STAFF-26,26,Female,Manufacturing Director,Divorced,No,Y,5,24,1,673,11,Associates Degree,1,1,96,4,2,3,4011,8232,0,18,3,4,80,1,5,2,4,2,1,3
+Yes,Travel_Rarely,35 - 44,Ex-Employees,Sales,Life Sciences,STAFF-27,27,Male,Sales Representative,Single,No,Y,4,36,0,1218,9,Master's Degree,1,3,82,2,1,1,3407,6986,7,23,4,2,80,0,10,3,5,3,0,3
+No,Travel_Rarely,25 - 34,Current Employees,R&D,Life Sciences,STAFF-28,28,Female,Research Director,Single,No,Y,4,34,1,419,7,Master's Degree,1,1,53,3,3,2,11994,21293,0,11,3,3,80,0,13,3,12,6,2,11
+No,Travel_Rarely,Under 25,Current Employees,R&D,Life Sciences,STAFF-30,30,Male,Research Scientist,Single,No,Y,6,21,1,391,15,Associates Degree,1,3,96,3,1,4,1232,19281,1,14,3,4,80,0,0,3,0,0,0,0
+Yes,Travel_Rarely,25 - 34,Ex-Employees,R&D,Medical,STAFF-31,31,Male,Research Scientist,Single,No,Y,2,34,0,699,6,High School,1,2,83,3,1,1,2960,17102,2,11,3,3,80,0,8,3,4,2,1,3
+No,Travel_Rarely,45 - 54,Current Employees,R&D,Other,STAFF-32,32,Female,Manager,Divorced,No,Y,3,53,1,1282,5,Bachelor's Degree,1,3,58,3,5,3,19094,10735,4,11,3,4,80,1,26,2,14,13,4,8
+Yes,Travel_Frequently,25 - 34,Ex-Employees,R&D,Life Sciences,STAFF-33,33,Female,Research Scientist,Single,Yes,Y,5,32,0,1125,16,High School,1,2,72,1,1,1,3919,4681,1,22,4,2,80,0,10,3,10,2,6,7
+No,Travel_Rarely,35 - 44,Current Employees,Sales,Marketing,STAFF-35,35,Male,Sales Executive,Married,No,Y,2,42,1,691,8,Master's Degree,1,3,48,3,2,2,6825,21173,0,11,3,4,80,1,10,3,9,7,4,2
+No,Travel_Rarely,35 - 44,Current Employees,R&D,Medical,STAFF-36,36,Female,Healthcare Representative,Married,No,Y,4,44,1,477,7,Master's Degree,1,1,42,2,3,4,10248,2094,3,14,3,4,80,1,24,3,22,6,5,17
+No,Travel_Rarely,45 - 54,Current Employees,Sales,Marketing,STAFF-38,38,Female,Manager,Single,No,Y,2,46,1,705,2,Master's Degree,1,2,83,3,5,1,18947,22822,3,12,3,4,80,0,22,2,2,2,2,1
+No,Travel_Rarely,25 - 34,Current Employees,R&D,Medical,STAFF-39,39,Male,Laboratory Technician,Single,No,Y,3,33,1,924,2,Bachelor's Degree,1,3,78,3,1,4,2496,6670,4,11,3,4,80,0,7,3,1,1,0,0
+No,Travel_Rarely,35 - 44,Current Employees,R&D,Other,STAFF-40,40,Male,Healthcare Representative,Married,Yes,Y,5,44,1,1459,10,Master's Degree,1,4,41,3,2,4,6465,19121,2,13,3,4,80,0,9,4,4,2,1,3
+No,Travel_Rarely,25 - 34,Current Employees,R&D,Medical,STAFF-41,41,Male,Laboratory Technician,Single,No,Y,5,30,1,125,9,Associates Degree,1,4,83,2,1,3,2206,16117,1,13,3,1,80,0,10,3,10,0,1,8
+Yes,Travel_Rarely,35 - 44,Ex-Employees,Sales,Technical Degree,STAFF-42,42,Male,Sales Representative,Married,No,Y,6,39,0,895,5,Bachelor's Degree,1,4,56,3,2,4,2086,3335,3,14,3,3,80,1,19,4,1,0,0,0
+Yes,Travel_Rarely,Under 25,Ex-Employees,R&D,Medical,STAFF-45,45,Male,Research Scientist,Married,Yes,Y,2,24,0,813,1,Bachelor's Degree,1,2,61,3,1,4,2293,3020,2,16,3,1,80,1,6,2,2,0,2,0
+No,Travel_Rarely,35 - 44,Current Employees,R&D,Medical,STAFF-46,46,Female,Research Scientist,Divorced,No,Y,3,43,1,1273,2,Associates Degree,1,4,72,4,1,3,2645,21923,1,12,3,4,80,2,6,2,5,3,1,4
+Yes,Travel_Rarely,45 - 54,Ex-Employees,Sales,Marketing,STAFF-47,47,Male,Sales Representative,Married,Yes,Y,2,50,0,869,3,Associates Degree,1,1,86,2,1,3,2683,3810,1,14,3,3,80,0,3,3,3,2,0,2
+No,Travel_Rarely,35 - 44,Current Employees,Sales,Marketing,STAFF-49,49,Female,Sales Representative,Married,No,Y,3,35,1,890,2,Bachelor's Degree,1,4,97,3,1,4,2014,9687,1,13,3,1,80,0,2,3,2,2,2,2
+No,Travel_Rarely,35 - 44,Current Employees,R&D,Life Sciences,STAFF-51,51,Female,Research Scientist,Married,Yes,Y,3,36,1,852,5,Master's Degree,1,2,82,2,1,1,3419,13072,9,14,3,4,80,1,6,4,1,1,0,0
+No,Travel_Frequently,25 - 34,Current Employees,Sales,Life Sciences,STAFF-52,52,Female,Sales Executive,Married,No,Y,3,33,1,1141,1,Bachelor's Degree,1,3,42,4,2,1,5376,3193,2,19,3,1,80,2,10,3,5,3,1,3
+No,Travel_Rarely,35 - 44,Current Employees,R&D,Other,STAFF-53,53,Male,Laboratory Technician,Divorced,No,Y,3,35,1,464,4,Associates Degree,1,3,75,3,1,4,1951,10910,1,12,3,3,80,1,1,3,1,0,0,0
+No,Travel_Rarely,25 - 34,Current Employees,R&D,Life Sciences,STAFF-54,54,Female,Laboratory Technician,Divorced,No,Y,6,27,1,1240,2,Master's Degree,1,4,33,3,1,1,2341,19715,1,13,3,4,80,1,1,3,1,0,0,0
+Yes,Travel_Rarely,25 - 34,Ex-Employees,R&D,Life Sciences,STAFF-55,55,Male,Laboratory Technician,Single,No,Y,2,26,0,1357,25,Bachelor's Degree,1,1,48,1,1,3,2293,10558,1,12,3,3,80,0,1,2,1,0,0,1
+No,Travel_Frequently,25 - 34,Current Employees,Sales,Life Sciences,STAFF-56,56,Male,Sales Executive,Single,No,Y,0,27,1,994,8,Bachelor's Degree,1,4,37,3,3,3,8726,2975,1,15,3,4,80,0,9,3,9,8,1,7
+No,Travel_Frequently,25 - 34,Current Employees,R&D,Medical,STAFF-57,57,Female,Laboratory Technician,Single,No,Y,2,30,1,721,1,Associates Degree,1,3,58,3,2,4,4011,10781,1,23,4,4,80,0,12,3,12,8,3,7
+Yes,Travel_Rarely,35 - 44,Ex-Employees,R&D,Technical Degree,STAFF-58,58,Female,Research Director,Married,No,Y,0,41,0,1360,12,Bachelor's Degree,1,2,49,3,5,3,19545,16280,1,12,3,4,80,0,23,3,22,15,15,8
+No,Non-Travel,25 - 34,Current Employees,Sales,Marketing,STAFF-60,60,Male,Sales Executive,Single,No,Y,2,34,1,1065,23,Master's Degree,1,2,72,3,2,3,4568,10034,0,20,4,3,80,0,10,3,9,5,8,7
+No,Travel_Rarely,35 - 44,Current Employees,R&D,Life Sciences,STAFF-61,61,Male,Research Scientist,Married,No,Y,1,37,1,408,19,Associates Degree,1,2,73,3,1,2,3022,10227,4,21,4,1,80,0,8,3,1,0,0,0
+No,Travel_Frequently,45 - 54,Current Employees,Sales,Marketing,STAFF-62,62,Male,Sales Executive,Single,Yes,Y,4,46,1,1211,5,Master's Degree,1,1,98,3,2,4,5772,20445,4,21,4,3,80,0,14,3,9,6,0,8
+No,Travel_Rarely,35 - 44,Current Employees,R&D,Life Sciences,STAFF-63,63,Male,Laboratory Technician,Married,No,Y,2,35,1,1229,8,High School,1,4,36,4,1,4,2269,4892,1,19,3,4,80,0,1,3,1,0,0,1
+Yes,Travel_Rarely,45 - 54,Ex-Employees,R&D,Life Sciences,STAFF-64,64,Male,Laboratory Technician,Single,Yes,Y,2,48,0,626,1,Associates Degree,1,1,98,2,3,3,5381,19294,9,13,3,4,80,0,23,3,1,0,0,0
+Yes,Travel_Rarely,25 - 34,Ex-Employees,R&D,Technical Degree,STAFF-65,65,Male,Laboratory Technician,Single,Yes,Y,3,28,0,1434,5,Master's Degree,1,3,50,3,1,3,3441,11179,1,13,3,3,80,0,2,2,2,2,2,2
+No,Travel_Rarely,35 - 44,Current Employees,Sales,Marketing,STAFF-68,68,Female,Sales Executive,Divorced,Yes,Y,2,44,1,1488,1,Doctoral Degree,1,2,75,3,2,1,5454,4009,5,21,4,3,80,1,9,2,4,3,1,3
+No,Non-Travel,35 - 44,Current Employees,R&D,Medical,STAFF-70,70,Male,Healthcare Representative,Married,Yes,Y,3,35,1,1097,11,Associates Degree,1,3,79,2,3,1,9884,8302,2,13,3,3,80,1,10,3,4,0,2,3
+No,Travel_Rarely,25 - 34,Current Employees,Sales,Marketing,STAFF-72,72,Female,Sales Executive,Married,Yes,Y,2,26,1,1443,23,Bachelor's Degree,1,3,47,2,2,4,4157,21436,7,19,3,3,80,1,5,2,2,2,0,0
+No,Travel_Frequently,25 - 34,Current Employees,R&D,Life Sciences,STAFF-73,73,Female,Research Director,Single,Yes,Y,1,33,1,515,1,Associates Degree,1,1,98,3,3,4,13458,15146,1,12,3,3,80,0,15,3,15,14,8,12
+No,Travel_Frequently,35 - 44,Current Employees,Sales,Life Sciences,STAFF-74,74,Male,Sales Executive,Married,No,Y,3,35,1,853,18,Doctoral Degree,1,2,71,3,3,1,9069,11031,1,22,4,4,80,1,9,2,9,8,1,8
+No,Travel_Rarely,35 - 44,Current Employees,R&D,Medical,STAFF-75,75,Female,Laboratory Technician,Married,Yes,Y,3,35,1,1142,23,Master's Degree,1,3,30,3,1,1,4014,16002,3,15,3,3,80,1,4,3,2,2,2,2
+No,Travel_Rarely,25 - 34,Current Employees,R&D,Life Sciences,STAFF-76,76,Male,Laboratory Technician,Divorced,No,Y,3,31,1,655,7,Master's Degree,1,4,48,3,2,4,5915,9528,3,22,4,4,80,1,10,2,7,7,1,7
+No,Travel_Rarely,35 - 44,Current Employees,R&D,Life Sciences,STAFF-77,77,Male,Manufacturing Director,Divorced,No,Y,2,37,1,1115,1,Master's Degree,1,1,51,2,2,3,5993,2689,1,18,3,3,80,1,7,4,7,5,0,7
+No,Travel_Rarely,25 - 34,Current Employees,R&D,Medical,STAFF-78,78,Male,Manufacturing Director,Married,Yes,Y,3,32,1,427,1,Bachelor's Degree,1,1,33,3,2,4,6162,10877,1,22,4,2,80,1,9,3,9,8,7,8
+No,Travel_Frequently,35 - 44,Current Employees,R&D,Life Sciences,STAFF-79,79,Female,Laboratory Technician,Single,No,Y,2,38,1,653,29,Doctoral Degree,1,4,50,3,2,4,2406,5456,1,11,3,4,80,0,10,3,10,3,9,9
+No,Travel_Rarely,45 - 54,Current Employees,R&D,Medical,STAFF-80,80,Female,Research Director,Divorced,Yes,Y,2,50,1,989,7,Associates Degree,1,2,43,2,5,3,18740,16701,5,12,3,4,80,1,29,2,27,3,13,8
+No,Travel_Rarely,Over 55,Current Employees,Sales,Life Sciences,STAFF-81,81,Female,Sales Executive,Single,No,Y,3,59,1,1435,25,Bachelor's Degree,1,1,99,3,3,1,7637,2354,7,11,3,4,80,0,28,2,21,16,7,9
+No,Travel_Rarely,35 - 44,Current Employees,R&D,Technical Degree,STAFF-83,83,Female,Healthcare Representative,Divorced,No,Y,2,36,1,1223,8,Bachelor's Degree,1,3,59,3,3,3,10096,8202,1,13,3,2,80,3,17,3,17,14,12,8
+No,Travel_Rarely,Over 55,Current Employees,R&D,Medical,STAFF-84,84,Female,Manager,Divorced,Yes,Y,2,55,1,836,8,Bachelor's Degree,1,4,33,3,4,3,14756,19730,2,14,3,3,80,3,21,3,5,0,0,2
+No,Travel_Frequently,35 - 44,Current Employees,R&D,Life Sciences,STAFF-85,85,Male,Manufacturing Director,Single,No,Y,3,36,1,1195,11,Bachelor's Degree,1,2,95,2,2,2,6499,22656,1,13,3,3,80,0,6,3,6,5,0,3
+No,Travel_Rarely,45 - 54,Current Employees,R&D,Life Sciences,STAFF-86,86,Male,Research Scientist,Divorced,No,Y,2,45,1,1339,7,Bachelor's Degree,1,2,59,3,3,1,9724,18787,2,17,3,3,80,1,25,3,1,0,0,0
+No,Travel_Frequently,35 - 44,Current Employees,R&D,Medical,STAFF-88,88,Male,Research Scientist,Married,No,Y,2,35,1,664,1,Bachelor's Degree,1,2,79,3,1,1,2194,5868,4,13,3,4,80,1,5,2,3,2,1,2
+Yes,Travel_Rarely,35 - 44,Ex-Employees,R&D,Medical,STAFF-90,90,Male,Research Scientist,Married,Yes,Y,0,36,0,318,9,Bachelor's Degree,1,4,79,2,1,3,3388,21777,0,17,3,1,80,1,2,2,1,0,0,0
+No,Travel_Frequently,Over 55,Current Employees,Sales,Life Sciences,STAFF-91,91,Female,Sales Executive,Single,No,Y,2,59,1,1225,1,High School,1,1,57,2,2,3,5473,24668,7,11,3,4,80,0,20,2,4,3,1,3
+No,Travel_Rarely,25 - 34,Current Employees,R&D,Life Sciences,STAFF-94,94,Male,Research Scientist,Married,No,Y,3,29,1,1328,2,Bachelor's Degree,1,3,76,3,1,2,2703,4956,0,23,4,4,80,1,6,3,5,4,0,4
+No,Travel_Rarely,25 - 34,Current Employees,R&D,Medical,STAFF-95,95,Male,Research Scientist,Single,No,Y,4,31,1,1082,1,Master's Degree,1,3,87,3,1,2,2501,18775,1,17,3,2,80,0,1,3,1,1,1,0
+No,Travel_Rarely,25 - 34,Current Employees,R&D,Life Sciences,STAFF-96,96,Male,Research Scientist,Married,No,Y,3,32,1,548,1,Bachelor's Degree,1,2,66,3,2,2,6220,7346,1,17,3,2,80,2,10,3,10,4,0,9
+No,Travel_Rarely,35 - 44,Current Employees,R&D,Life Sciences,STAFF-97,97,Female,Laboratory Technician,Married,No,Y,3,36,1,132,6,Bachelor's Degree,1,2,55,4,1,4,3038,22002,3,12,3,2,80,0,5,3,1,0,0,0
+No,Travel_Rarely,25 - 34,Current Employees,R&D,Life Sciences,STAFF-98,98,Female,Manufacturing Director,Single,No,Y,2,31,1,746,8,Master's Degree,1,3,61,3,2,4,4424,20682,1,23,4,4,80,0,11,3,11,7,1,8
+No,Travel_Rarely,35 - 44,Current Employees,Sales,Marketing,STAFF-100,100,Male,Sales Executive,Single,No,Y,2,35,1,776,1,Master's Degree,1,3,32,2,2,1,4312,23016,0,14,3,2,80,0,16,3,15,13,2,8
+No,Travel_Rarely,45 - 54,Current Employees,R&D,Other,STAFF-101,101,Male,Research Director,Married,Yes,Y,3,45,1,193,6,Master's Degree,1,4,52,3,3,1,13245,15067,4,14,3,2,80,0,17,4,0,0,0,0
+No,Travel_Rarely,35 - 44,Current Employees,R&D,Medical,STAFF-102,102,Male,Research Director,Single,No,Y,3,37,1,397,7,Master's Degree,1,1,30,3,3,3,13664,25258,4,13,3,1,80,0,16,4,5,2,0,2
+No,Travel_Rarely,45 - 54,Current Employees,HR,Medical,STAFF-103,103,Male,Human Resources,Divorced,Yes,Y,2,46,1,945,5,Associates Degree,1,2,80,3,2,2,5021,10425,8,22,4,4,80,1,16,3,4,2,0,2
+No,Travel_Rarely,25 - 34,Current Employees,R&D,Life Sciences,STAFF-104,104,Male,Laboratory Technician,Married,Yes,Y,1,30,1,852,1,High School,1,4,55,2,2,4,5126,15998,1,12,3,3,80,2,10,2,10,8,3,0
+No,Travel_Rarely,35 - 44,Current Employees,R&D,Medical,STAFF-105,105,Male,Research Scientist,Single,No,Y,3,35,1,1214,1,Bachelor's Degree,1,2,30,2,1,3,2859,26278,1,18,3,1,80,0,6,3,6,4,0,4
+No,Travel_Rarely,Over 55,Current Employees,Sales,Life Sciences,STAFF-106,106,Male,Sales Executive,Married,No,Y,4,55,1,111,1,Associates Degree,1,1,70,3,3,4,10239,18092,3,14,3,4,80,1,24,3,1,0,1,0
+No,Non-Travel,35 - 44,Current Employees,R&D,Medical,STAFF-107,107,Female,Research Scientist,Divorced,Yes,Y,3,38,1,573,6,Bachelor's Degree,1,2,79,1,2,4,5329,15717,7,12,3,4,80,3,17,3,13,11,1,9
+No,Travel_Rarely,25 - 34,Current Employees,R&D,Medical,STAFF-110,110,Male,Manufacturing Director,Married,No,Y,2,34,1,1153,1,Associates Degree,1,1,94,3,2,2,4325,17736,1,15,3,3,80,0,5,3,5,2,1,3
+No,Travel_Rarely,Over 55,Current Employees,R&D,Life Sciences,STAFF-112,112,Male,Manufacturing Director,Single,No,Y,3,56,1,1400,7,Bachelor's Degree,1,4,49,1,3,4,7260,21698,4,11,3,1,80,0,37,2,6,4,0,2
+No,Travel_Rarely,Under 25,Current Employees,Sales,Technical Degree,STAFF-113,113,Male,Sales Representative,Divorced,No,Y,3,23,1,541,2,High School,1,3,62,3,1,1,2322,9518,3,13,3,3,80,1,3,3,0,0,0,0
+No,Travel_Rarely,45 - 54,Current Employees,R&D,Life Sciences,STAFF-116,116,Male,Laboratory Technician,Married,No,Y,4,51,1,432,9,Master's Degree,1,4,96,3,1,4,2075,18725,3,23,4,2,80,2,10,3,4,2,0,3
+No,Travel_Rarely,25 - 34,Current Employees,R&D,Life Sciences,STAFF-117,117,Male,Healthcare Representative,Married,No,Y,3,30,1,288,2,Bachelor's Degree,1,3,99,2,2,4,4152,15830,1,19,3,1,80,3,11,3,11,10,10,8
+Yes,Travel_Rarely,45 - 54,Ex-Employees,Sales,Medical,STAFF-118,118,Male,Sales Executive,Single,No,Y,3,46,0,669,9,Associates Degree,1,3,64,2,3,4,9619,13596,1,16,3,4,80,0,9,3,9,8,4,7
+No,Travel_Frequently,35 - 44,Current Employees,R&D,Life Sciences,STAFF-119,119,Male,Healthcare Representative,Married,No,Y,3,40,1,530,1,Master's Degree,1,3,78,2,4,2,13503,14115,1,22,4,4,80,1,22,2,22,3,11,11
+No,Travel_Rarely,45 - 54,Current Employees,Sales,Marketing,STAFF-120,120,Male,Sales Executive,Single,Yes,Y,2,51,1,632,21,Master's Degree,1,3,71,3,2,4,5441,8423,0,22,4,4,80,0,11,1,10,7,1,0
+No,Travel_Rarely,25 - 34,Current Employees,Sales,Medical,STAFF-121,121,Female,Sales Executive,Divorced,Yes,Y,4,30,1,1334,4,Associates Degree,1,3,63,2,2,2,5209,19760,1,12,3,2,80,3,11,2,11,8,2,7
+No,Travel_Frequently,45 - 54,Current Employees,R&D,Medical,STAFF-124,124,Male,Healthcare Representative,Married,Yes,Y,5,46,1,638,1,Bachelor's Degree,1,3,40,2,3,1,10673,3142,2,13,3,3,80,1,21,2,10,9,9,5
+No,Travel_Rarely,25 - 34,Current Employees,Sales,Medical,STAFF-125,125,Male,Sales Executive,Single,No,Y,0,32,1,1093,6,Master's Degree,1,2,87,3,2,3,5010,24301,1,16,3,1,80,0,12,3,11,8,5,7
+No,Travel_Rarely,45 - 54,Current Employees,R&D,Technical Degree,STAFF-126,126,Female,Research Director,Married,No,Y,5,54,1,1217,2,Master's Degree,1,1,60,3,3,3,13549,24001,9,12,3,1,80,1,16,1,4,3,0,3
+No,Travel_Rarely,Under 25,Current Employees,Sales,Other,STAFF-128,128,Female,Sales Executive,Married,No,Y,2,24,1,1353,3,Associates Degree,1,1,33,3,2,3,4999,17519,0,21,4,1,80,1,4,2,3,2,0,2
+No,Non-Travel,25 - 34,Current Employees,Sales,Medical,STAFF-129,129,Male,Sales Executive,Married,No,Y,3,28,1,120,4,Bachelor's Degree,1,2,43,3,2,3,4221,8863,1,15,3,2,80,0,5,4,5,4,0,4
+No,Travel_Rarely,Over 55,Current Employees,Sales,Medical,STAFF-131,131,Male,Sales Executive,Single,No,Y,1,58,1,682,10,Master's Degree,1,4,37,3,4,3,13872,24409,0,13,3,3,80,0,38,2,37,10,1,8
+No,Non-Travel,35 - 44,Current Employees,R&D,Medical,STAFF-132,132,Male,Laboratory Technician,Married,No,Y,3,44,1,489,23,Bachelor's Degree,1,2,67,3,2,2,2042,25043,4,12,3,3,80,1,17,4,3,2,1,2
+Yes,Travel_Rarely,35 - 44,Ex-Employees,HR,Human Resources,STAFF-133,133,Male,Human Resources,Divorced,Yes,Y,3,37,0,807,6,Master's Degree,1,3,63,3,1,1,2073,23648,4,22,4,4,80,0,7,3,3,2,0,2
+No,Travel_Rarely,25 - 34,Current Employees,R&D,Life Sciences,STAFF-134,134,Male,Research Scientist,Single,No,Y,2,32,1,827,1,High School,1,4,71,3,1,1,2956,15178,1,13,3,4,80,0,1,3,1,0,0,0
+Yes,Travel_Frequently,Under 25,Ex-Employees,R&D,Life Sciences,STAFF-137,137,Female,Laboratory Technician,Single,Yes,Y,5,20,0,871,6,Bachelor's Degree,1,4,66,2,1,4,2926,19783,1,18,3,2,80,0,1,3,1,0,1,0
+No,Travel_Rarely,25 - 34,Current Employees,R&D,Other,STAFF-138,138,Female,Research Scientist,Single,No,Y,3,34,1,665,6,Master's Degree,1,1,41,3,2,3,4809,12482,1,14,3,3,80,0,16,3,16,13,2,10
+No,Non-Travel,35 - 44,Current Employees,R&D,Life Sciences,STAFF-139,139,Male,Healthcare Representative,Divorced,No,Y,2,37,1,1040,2,Associates Degree,1,3,100,2,2,4,5163,15850,5,14,3,4,80,1,17,4,1,0,0,0
+No,Non-Travel,Over 55,Current Employees,HR,Human Resources,STAFF-140,140,Female,Manager,Married,No,Y,3,59,1,1420,2,Master's Degree,1,3,32,2,5,4,18844,21922,9,21,4,4,80,1,30,3,3,2,2,2
+No,Travel_Frequently,45 - 54,Current Employees,R&D,Life Sciences,STAFF-141,141,Female,Research Director,Married,Yes,Y,1,50,1,1115,1,Bachelor's Degree,1,1,73,3,5,2,18172,9755,3,19,3,1,80,0,28,2,8,3,0,7
+Yes,Travel_Rarely,25 - 34,Ex-Employees,Sales,Marketing,STAFF-142,142,Male,Sales Executive,Single,Yes,Y,1,25,0,240,5,Bachelor's Degree,1,3,46,2,2,3,5744,26959,1,11,3,4,80,0,6,3,6,4,0,3
+No,Travel_Rarely,25 - 34,Current Employees,R&D,Medical,STAFF-143,143,Male,Research Scientist,Married,No,Y,2,25,1,1280,7,High School,1,4,64,2,1,4,2889,26897,1,11,3,3,80,2,2,3,2,2,2,1
+No,Travel_Rarely,Under 25,Current Employees,R&D,Medical,STAFF-144,144,Female,Laboratory Technician,Single,No,Y,5,22,1,534,15,Bachelor's Degree,1,2,59,3,1,4,2871,23785,1,15,3,3,80,0,1,3,0,0,0,0
+No,Travel_Frequently,45 - 54,Current Employees,R&D,Medical,STAFF-145,145,Female,Healthcare Representative,Single,No,Y,1,51,1,1456,1,Master's Degree,1,1,30,2,3,1,7484,25796,3,20,4,3,80,0,23,2,13,12,12,8
+Yes,Travel_Frequently,25 - 34,Ex-Employees,R&D,Life Sciences,STAFF-147,147,Male,Laboratory Technician,Single,Yes,Y,3,34,0,658,7,Bachelor's Degree,1,1,66,1,2,3,6074,22887,1,24,4,4,80,0,9,3,9,7,0,6
+No,Non-Travel,45 - 54,Current Employees,HR,Human Resources,STAFF-148,148,Female,Manager,Single,Yes,Y,3,54,1,142,26,Bachelor's Degree,1,4,30,4,4,4,17328,13871,2,12,3,3,80,0,23,3,5,3,4,4
+No,Travel_Rarely,Under 25,Current Employees,R&D,Life Sciences,STAFF-150,150,Male,Laboratory Technician,Married,No,Y,2,24,1,1127,18,High School,1,2,52,3,1,3,2774,13257,0,12,3,3,80,1,6,3,5,3,1,2
+No,Travel_Rarely,25 - 34,Current Employees,R&D,Life Sciences,STAFF-151,151,Female,Research Scientist,Divorced,No,Y,3,34,1,1031,6,Master's Degree,1,3,45,2,2,2,4505,15000,6,15,3,3,80,1,12,3,1,0,0,0
+No,Travel_Rarely,35 - 44,Current Employees,Sales,Life Sciences,STAFF-152,152,Male,Sales Executive,Single,No,Y,3,37,1,1189,3,Bachelor's Degree,1,3,87,3,3,4,7428,14506,2,12,3,1,80,0,12,3,5,3,1,3
+No,Travel_Rarely,25 - 34,Current Employees,R&D,Medical,STAFF-153,153,Female,Manager,Single,No,Y,6,34,1,1354,5,Bachelor's Degree,1,3,45,2,3,1,11631,5615,2,12,3,4,80,0,14,3,11,10,5,8
+No,Travel_Frequently,35 - 44,Current Employees,Sales,Technical Degree,STAFF-154,154,Female,Sales Executive,Married,No,Y,6,36,1,1467,11,Associates Degree,1,2,92,3,3,4,9738,22952,0,14,3,3,80,1,10,3,9,7,2,8
+No,Travel_Rarely,35 - 44,Current Employees,R&D,Life Sciences,STAFF-155,155,Female,Laboratory Technician,Divorced,No,Y,2,36,1,922,3,Associates Degree,1,1,39,3,1,4,2835,2561,5,22,4,1,80,1,7,3,1,0,0,0
